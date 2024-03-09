@@ -1,4 +1,4 @@
-<h2 align="center" style="color: purple">Real Time Figma Clone</h2>
+<h2 align="center" color="purple">Real Time Figma-Pro Next App</h2>
 
 ## <a name="introduction">🤖 Introduction</a>
 
